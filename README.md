@@ -119,29 +119,14 @@ GEMINI_API_KEY=your_gemini_api_key_here
 - **Response:** Returns the generated `.pptx` file.
 
 ---
-
-## Contributing
-
-Please read our [Contributing Guide](https://github.com/ysskrishna/ai-ppt-slide-generator/blob/main/CONTRIBUTING.md) for details on our code of conduct, development setup, and the process for submitting pull requests.
-
-## Support
-
-If you find this useful, please consider:
-
-- ⭐ **Starring** the repository on GitHub to help others discover it.
-
-- 💖 **Sponsoring** to support ongoing maintenance and development.
-
-[Become a Sponsor on GitHub](https://github.com/sponsors/ysskrishna) | [Support on Patreon](https://patreon.com/ysskrishna)
-
 ## License
 
 MIT License - see the [LICENSE](https://github.com/ysskrishna/ai-ppt-slide-generator/blob/main/LICENSE) file for details.
 
 ## Author
 
-**Y. Siva Sai Krishna**
+**Hima**
 
-- GitHub: [@ysskrishna](https://github.com/ysskrishna)
+- GitHub: [Hima](https://github.com/Hiomio)
 
-- LinkedIn: [ysskrishna](https://linkedin.com/in/ysskrishna)
+- LinkedIn: [Hima](https://www.linkedin.com/in/kaluri-himabindhu-9378b927a/)
